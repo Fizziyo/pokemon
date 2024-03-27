@@ -138,6 +138,10 @@ h1 {
   font-style: italic;
 }
 
+.searchButton {
+  margin-left: 20px;
+}
+
 /* Media Queries for responsiveness */
 
 @media (max-width: 768px) {
@@ -158,6 +162,7 @@ h1 {
 
   .searchButton {
     padding: 8px 16px;
+    margin-left: 5px;
   }
 
   .pokemon-details {
