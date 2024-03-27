@@ -1,3 +1,12 @@
+# Screenshot
+
+![Alt text](https://github.com/Fizziyo/pokemon/blob/main/screenshots/Screenshot%202024-03-27%20at%204.38.48%E2%80%AFPM.png)
+
+![Alt text](https://github.com/Fizziyo/pokemon/blob/main/screenshots/Screenshot%202024-03-27%20at%204.39.53%E2%80%AFPM.png)
+
+![Alt text](https://github.com/Fizziyo/pokemon/blob/main/screenshots/Screenshot%202024-03-27%20at%204.39.56%E2%80%AFPM.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
